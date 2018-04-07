@@ -24,7 +24,7 @@ We define an hourglass in **A** to be a subset of values with indices falling in
 
 ``` text
 a b c
-d
+  d
 e f g
 ```
 
