@@ -1,6 +1,6 @@
 # Counter game
 
-`https://www.hackerrank.com/challenges/counter-game/problem`
+<https://www.hackerrank.com/challenges/counter-game/problem>
 
 Louise and Richard play a game. They have a counter set to .In every game, Louise gets the first turn
 and the turns alternate thereafter. In the game, they perform the following operations.
